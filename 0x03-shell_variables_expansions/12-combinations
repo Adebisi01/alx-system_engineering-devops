@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e {a..z} {a..n} {p..q} "/n"
+echo -e {a..z}{a..n} {a..z}{p..z}"/n"
